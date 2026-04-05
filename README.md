@@ -25,5 +25,5 @@ This project analyzes Amazon product and customer behavior data to uncover insig
 - Data Visualization
 
 📄 Project Resources  
-- [View Analysis](./Amazon analysis.Rmd)
-- [View Slide](./Amazon customer behavior analysis.pdf)
+- 📊 Presentation: [View Slides](./Amazon customer behavior analysis.pdf)
+- 💻 Code: [View Analysis](./Amazon analysis.Rmd)
