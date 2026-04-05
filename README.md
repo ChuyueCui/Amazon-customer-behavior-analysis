@@ -22,4 +22,8 @@ This project analyzes Amazon product and customer behavior data to uncover insig
 - Python / R  
 - Data Cleaning & EDA  
 - Sentiment Analysis (NLP)  
-- Data Visualization  
+- Data Visualization
+
+📄 Project Resources  
+- [View Analysis](./Amazon analysis.Rmd)
+- [View Slide](./Amazon customer behavior analysis.pdf)
